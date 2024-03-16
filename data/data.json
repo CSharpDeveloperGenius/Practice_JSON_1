@@ -1,0 +1,52 @@
+{
+  "Students": [
+    {
+      "Code": "1",
+      "LastName": "Иванов",
+      "FirstName": "Иван",
+      "MiddleName": "Иванович"
+    },
+    {
+      "Code": "2",
+      "LastName": "Петров",
+      "FirstName": "Петр",
+      "MiddleName": "Петрович"
+    }
+  ],
+  "Subjects": [
+    {
+      "Code": "1",
+      "Title": "Математика",
+      "LectureCount": 30,
+      "PracticeCount": 20
+    },
+    {
+      "Code": "2",
+      "Title": "Физика",
+      "LectureCount": 30,
+      "PracticeCount": 20
+    }
+  ],
+  "EducationPlans": [
+    {
+      "StudentCode": "1",
+      "SubjectCode": "1",
+      "Mark": 5
+    },
+    {
+      "StudentCode": "1",
+      "SubjectCode": "2",
+      "Mark": 4
+    },
+    {
+      "StudentCode": "2",
+      "SubjectCode": "1",
+      "Mark": 3
+    },
+    {
+      "StudentCode": "1",
+      "SubjectCode": "2",
+      "Mark": 5
+    }
+  ]
+}
